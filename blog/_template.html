@@ -3,18 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-P8KCW4DNJL"></script>
-  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-P8KCW4DNJL');</script>
-  <title>%%TITLE%% | platform-review 深度分析</title>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-TQCSL891XL"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-TQCSL891XL');</script>
+  <title>%%TITLE%% | spheretap 深度分析</title>
   <meta name="description" content="%%META_DESC%%">
-  <link rel="canonical" href="https://verifiedplays.com/blog/%%SLUG%%/">
+  <link rel="canonical" href="https://spheretap.com/blog/%%SLUG%%/">
   <meta property="og:type" content="article">
   <meta property="og:title" content="%%TITLE%%">
   <meta property="og:description" content="%%META_DESC%%">
-  <meta property="og:url" content="https://verifiedplays.com/blog/%%SLUG%%/">
+  <meta property="og:url" content="https://spheretap.com/blog/%%SLUG%%/">
   <meta property="og:image" content="%%OG_IMAGE%%">
   <meta property="og:locale" content="zh_HK">
-  <meta property="og:site_name" content="platform-review">
+  <meta property="og:site_name" content="spheretap">
   <meta name="twitter:card" content="summary_large_image">
   <script type="application/ld+json">
   {
@@ -26,29 +26,29 @@
         "datePublished": "%%DATE%%",
         "dateModified": "%%DATE_MODIFIED%%",
         "articleSection": "%%CATEGORY%%",
-        "mainEntityOfPage": "https://verifiedplays.com/blog/%%SLUG%%/",
-        "author": {"@type":"Person","@id":"https://verifiedplays.com/about.html#ng-siu-lam","name":"吳曉琳"},
-        "publisher": {"@type":"Organization","@id":"https://verifiedplays.com/#organization","name":"platform-review","url":"https://verifiedplays.com/","logo":{"@type":"ImageObject","url":"https://verifiedplays.com/LOGO.svg"}},
+        "mainEntityOfPage": "https://spheretap.com/blog/%%SLUG%%/",
+        "author": {"@type":"Person","@id":"https://spheretap.com/about.html#AUTHOR_SLUG_PH","name":"AUTHOR_NAME_PH"},
+        "publisher": {"@type":"Organization","@id":"https://spheretap.com/#organization","name":"spheretap","url":"https://spheretap.com/","logo":{"@type":"ImageObject","url":"https://spheretap.com/LOGO.svg"}},
         "description": "%%META_DESC%%",
-        "url": "https://verifiedplays.com/blog/%%SLUG%%/",
+        "url": "https://spheretap.com/blog/%%SLUG%%/",
         "inLanguage": "zh-Hant-HK",
         "image": "%%OG_IMAGE%%"
       },
       {"@type":"FAQPage","mainEntity":%%FAQ_JSON%%},
       {
         "@type": "Person",
-        "@id": "https://verifiedplays.com/about.html#ng-siu-lam",
-        "name": "吳曉琳",
-        "jobTitle": "博彩平台合規評測員",
-        "url": "https://verifiedplays.com/about.html",
-        "worksFor": {"@id":"https://verifiedplays.com/#organization"}
+        "@id": "https://spheretap.com/about.html#AUTHOR_SLUG_PH",
+        "name": "AUTHOR_NAME_PH",
+        "jobTitle": "AUTHOR_TITLE_PH",
+        "url": "https://spheretap.com/about.html",
+        "worksFor": {"@id":"https://spheretap.com/#organization"}
       },
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          {"@type":"ListItem","position":1,"name":"首頁","item":"https://verifiedplays.com/"},
-          {"@type":"ListItem","position":2,"name":"深度分析","item":"https://verifiedplays.com/blog.html"},
-          {"@type":"ListItem","position":3,"name":"%%TITLE%%","item":"https://verifiedplays.com/blog/%%SLUG%%/"}
+          {"@type":"ListItem","position":1,"name":"首頁","item":"https://spheretap.com/"},
+          {"@type":"ListItem","position":2,"name":"深度分析","item":"https://spheretap.com/blog.html"},
+          {"@type":"ListItem","position":3,"name":"%%TITLE%%","item":"https://spheretap.com/blog/%%SLUG%%/"}
         ]
       }
     ]
@@ -57,36 +57,49 @@
   <link rel="stylesheet" href="../style-color.css">
   <link rel="stylesheet" href="../style-base.css">
   <link rel="stylesheet" href="../style-layout.css">
+  <style>
+    .article-lead{font-size:17px;line-height:1.8;margin-bottom:24px;padding-bottom:20px;border-bottom:1px solid var(--clr-border,rgba(0,0,0,.08))}
+    .qa-box{background:var(--clr-accent-faint,rgba(240,180,41,.07));border:1px solid var(--clr-accent,#f0b429);border-left:3px solid var(--clr-accent,#f0b429);border-radius:0 10px 10px 0;padding:16px 20px;margin:20px 0}
+    .qa-box-label{display:inline-block;background:var(--clr-accent,#f0b429);color:#000;font-size:10px;font-weight:800;padding:2px 8px;border-radius:10px;margin-bottom:12px;letter-spacing:.05em;text-transform:uppercase}
+    .blog-banner{margin:20px 0}.blog-banner img{width:100%;border-radius:10px;display:block;max-height:380px;object-fit:cover}
+    .related-section{margin-top:32px;padding-top:24px;border-top:1px solid var(--clr-border,rgba(0,0,0,.08))}
+    .related-grid{display:grid;grid-template-columns:1fr;gap:12px;margin-top:16px}
+    @media(min-width:600px){.related-grid{grid-template-columns:repeat(3,1fr)}}
+    .rel-card{background:var(--clr-bg-card,#fff);border:1px solid var(--clr-border,rgba(0,0,0,.08));border-radius:10px;padding:16px;text-decoration:none;display:block;transition:border-color .2s}
+    .rel-card:hover{border-color:var(--clr-accent,#f0b429)}
+    .rel-cat{font-size:10px;color:var(--clr-accent,#f0b429);font-weight:700;margin-bottom:8px;display:block;text-transform:uppercase}
+    .rel-title{font-size:13px;font-weight:600;color:var(--clr-text,#1a1d24);line-height:1.45}
+  </style>
 </head>
 <body>
 
 <div class="header-topbar">
   <div class="header-topbar-inner">
     <span class="header-topbar-date" id="topbar-date"></span>
-    <span class="header-topbar-tagline">platform-review — 合法性驗證 / 安全架構分析 / 平台技術評測媒體 專業媒體</span>
+    <span class="header-topbar-tagline">spheretap — NICHE_TC_PH 專業媒體</span>
   </div>
 </div>
 
 <header class="site-header">
   <div class="header-inner">
-    <a href="https://verifiedplays.com/" class="header-logo">
-      <img src="../LOGO.svg" alt="platform-review logo" onerror="this.style.display='none'">
-      platform-review
+    <a href="https://spheretap.com/" class="header-logo">
+      <img src="../LOGO.svg" alt="spheretap logo" onerror="this.style.display='none'">
+      spheretap
     </a>
     <nav class="header-nav" aria-label="主導覽">
-      <a href="https://verifiedplays.com/blog.html" class="nav-link active">深度分析</a>
-      <a href="https://verifiedplays.com/about.html" class="nav-link">編輯陣容</a>
+      <a href="https://spheretap.com/blog.html" class="nav-link active">深度分析</a>
+      <a href="https://spheretap.com/about.html" class="nav-link">編輯陣容</a>
     </nav>
-    <a href="https://spheretap.com/" class="btn btn-primary btn-sm" target="_blank" rel="noopener">立即前往</a>
+    <a href="DESTINATION_URL" class="btn btn-primary btn-sm" target="_blank" rel="noopener">立即前往</a>
   </div>
 </header>
 
 <main class="article-page">
   <div class="container">
     <nav class="breadcrumb">
-      <a href="https://verifiedplays.com/">首頁</a>
+      <a href="https://spheretap.com/">首頁</a>
       <span class="breadcrumb-sep">›</span>
-      <a href="https://verifiedplays.com/blog.html">深度分析</a>
+      <a href="https://spheretap.com/blog.html">深度分析</a>
       <span class="breadcrumb-sep">›</span>
       <span>%%TITLE%%</span>
     </nav>
@@ -97,9 +110,9 @@
           <div class="hero-b-label">%%CATEGORY%%</div>
           <h1 class="article-h1">%%TITLE%%</h1>
           <div class="author-byline" style="margin-bottom:var(--space-6);">
-            <span class="author-name">吳曉琳</span>
+            <span class="author-name">AUTHOR_NAME_PH</span>
             <span class="author-sep">·</span>
-            <span>博彩平台合規評測員</span>
+            <span>AUTHOR_TITLE_PH</span>
             <span class="author-sep">·</span>
             <time datetime="%%DATE%%">%%DATE%%</time>
           </div>
@@ -107,14 +120,18 @@
             onerror="this.style.display='none'">
         </header>
 
-        <div class="article-body">%%CONTENT%%</div>
+        <p class="article-lead">%%LEAD%%</p>
+        %%QA_BOX_HTML%%
+        %%BANNER_HTML%%
+        <div class="article-body">%%BODY%%</div>
+        %%REL_SECTION_HTML%%
 
         <div class="author-bio-card">
-          <img class="author-bio-avatar" src="/images/author.webp" alt="吳曉琳" width="72" height="72" loading="lazy">
+          <div class="author-bio-avatar" style="background:var(--clr-accent-faint);display:flex;align-items:center;justify-content:center;font-size:28px;">👤</div>
           <div>
-            <div class="author-bio-name">吳曉琳</div>
-            <div class="author-bio-title">博彩平台合規評測員</div>
-            <p class="author-bio-text">法律系背景，專研香港及亞洲網上博彩法規與消費者保護議題逾 8 年，獨立評測博彩平台的牌照合規性、資金安全架構及客戶服務標準。</p>
+            <div class="author-bio-name">AUTHOR_NAME_PH</div>
+            <div class="author-bio-title">AUTHOR_TITLE_PH</div>
+            <p class="author-bio-text">AUTHOR_BIO_PH</p>
           </div>
         </div>
 
@@ -127,8 +144,8 @@
         </div>
 
         <div class="editorial-quote" style="margin-top:var(--space-10);">
-          <p class="editorial-quote-text">準備好深入了解 合法性驗證 / 安全架構分析 / 平台技術評測媒體 了嗎？立即前往官方平台獲取最新資訊。</p>
-          <a href="https://spheretap.com/" class="btn btn-primary btn-lg" target="_blank" rel="noopener" style="margin-top:var(--space-4);">前往官方平台</a>
+          <p class="editorial-quote-text">準備好深入了解 NICHE_TC_PH 了嗎？立即前往官方平台獲取最新資訊。</p>
+          <a href="DESTINATION_URL" class="btn btn-primary btn-lg" target="_blank" rel="noopener" style="margin-top:var(--space-4);">前往官方平台</a>
         </div>
       </article>
 
@@ -136,15 +153,15 @@
         <div class="sidebar-widget" style="position:sticky;top:70px;background:var(--clr-bg-dark);border-color:var(--clr-border-dark);">
           <div class="sidebar-widget-title">作者</div>
           <div style="margin-bottom:var(--space-3);">
-            <div class="author-name" style="font-size:15px;color:var(--clr-text-inv);margin-bottom:2px;">吳曉琳</div>
-            <div style="font-size:12px;color:var(--clr-accent);font-weight:700;">博彩平台合規評測員</div>
+            <div class="author-name" style="font-size:15px;color:var(--clr-text-inv);margin-bottom:2px;">AUTHOR_NAME_PH</div>
+            <div style="font-size:12px;color:var(--clr-accent);font-weight:700;">AUTHOR_TITLE_PH</div>
           </div>
-          <a href="https://verifiedplays.com/about.html" class="btn btn-ghost btn-sm" style="width:100%;justify-content:center;">查看簡介</a>
+          <a href="https://spheretap.com/about.html" class="btn btn-ghost btn-sm" style="width:100%;justify-content:center;">查看簡介</a>
         </div>
         <div class="sidebar-widget" style="margin-top:var(--space-4);">
           <div class="sidebar-widget-title">立即前往</div>
           <p style="font-size:13px;color:var(--clr-text-muted);margin-bottom:var(--space-4);">取得最新優惠資訊。</p>
-          <a href="https://spheretap.com/" class="btn btn-primary" target="_blank" rel="noopener" style="width:100%;justify-content:center;">前往官網</a>
+          <a href="DESTINATION_URL" class="btn btn-primary" target="_blank" rel="noopener" style="width:100%;justify-content:center;">前往官網</a>
         </div>
       </aside>
     </div>
@@ -155,22 +172,22 @@
   <div class="footer-inner">
     <div class="footer-grid">
       <div class="footer-brand">
-        <div class="footer-logo">platform-review</div>
-        <p class="footer-tagline">合法性驗證 / 安全架構分析 / 平台技術評測媒體 深度分析與編輯精選。</p>
+        <div class="footer-logo">spheretap</div>
+        <p class="footer-tagline">NICHE_TC_PH 深度分析與編輯精選。</p>
       </div>
       <div>
         <div class="footer-col-title">內容</div>
-        <a href="https://verifiedplays.com/blog.html" class="footer-link">深度分析</a>
-        <a href="https://verifiedplays.com/about.html" class="footer-link">編輯陣容</a>
+        <a href="https://spheretap.com/blog.html" class="footer-link">深度分析</a>
+        <a href="https://spheretap.com/about.html" class="footer-link">編輯陣容</a>
       </div>
       <div>
         <div class="footer-col-title">法律</div>
-        <a href="https://verifiedplays.com/privacy.html" class="footer-link">私隱政策</a>
-        <a href="https://verifiedplays.com/terms.html" class="footer-link">使用條款</a>
+        <a href="https://spheretap.com/privacy.html" class="footer-link">私隱政策</a>
+        <a href="https://spheretap.com/terms.html" class="footer-link">使用條款</a>
       </div>
     </div>
     <div class="footer-bottom">
-      <span>© <span id="footer-year">2025</span> platform-review. 所有內容僅供參考。</span>
+      <span>© <span id="footer-year">2025</span> spheretap. 所有內容僅供參考。</span>
     </div>
   </div>
 </footer>

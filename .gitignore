@@ -1,0 +1,11 @@
+.env*
+*.log
+node_modules/
+.claude/
+dist/
+build/
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+desktop.ini

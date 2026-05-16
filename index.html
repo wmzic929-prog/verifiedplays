@@ -225,7 +225,7 @@
   document.getElementById('topbar-date').textContent =
     `${d.getFullYear()}年${d.getMonth()+1}月${d.getDate()}日`;
 
-  fetch('/blog/blog-recent.json')
+  fetch('/data/blog-recent.json')
     .then(r => r.ok ? r.json() : null)
     .then(data => {
       if (!data || !data.articles || !data.articles.length) return;

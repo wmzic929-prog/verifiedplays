@@ -5,4 +5,12 @@
   <url><loc>https://verifiedplays.com/about</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://verifiedplays.com/privacy</loc><lastmod>2026-05-15</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://verifiedplays.com/terms</loc><lastmod>2026-05-15</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+
+  <url>
+    <loc>https://verifiedplays.com/blog/verify-gambling-license-guide</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>

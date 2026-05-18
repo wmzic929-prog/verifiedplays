@@ -229,7 +229,7 @@
       const arts = data.articles;
       if (arts[0]) {
         document.getElementById('hero-title').textContent = arts[0].title;
-        document.getElementById('hero-excerpt').textContent = arts[0].metaDesc || '';
+        document.getElementById('hero-excerpt').textContent = arts[0].excerpt || arts[0].metaDesc || '';
         if (arts[0].imageUrl) document.getElementById('hero-img').src = arts[0].imageUrl;
         if (arts[0].category) document.getElementById('hero-cat').textContent = arts[0].category;
         if (arts[0].date) document.getElementById('hero-date').textContent = arts[0].date;

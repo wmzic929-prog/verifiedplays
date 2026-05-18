@@ -26,3 +26,14 @@ jobs:
         with:
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           command: pages deploy . --project-name platform-review --commit-dirty=true
+
+      - name: Submit Sitemap to GSC
+        continue-on-error: true
+        run: |
+          cd .github/scripts && npm install --silent && node submit-sitemap.js
+        env:
+          GSC_CLIENT_ID: ${{ secrets.GSC_CLIENT_ID }}
+          GSC_CLIENT_SECRET: ${{ secrets.GSC_CLIENT_SECRET }}
+          GSC_REFRESH_TOKEN: ${{ secrets.GSC_REFRESH_TOKEN }}
+          GSC_SITE_URL: sc-domain:verifiedplays.com
+          GSC_SITEMAP_URL: https://verifiedplays.com/sitemap.xml

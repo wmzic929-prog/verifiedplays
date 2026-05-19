@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "online-gaming-platform-ssl-encryption-verification",
+      "title": "博彩平台SSL加密驗證指南：保障玩家數據安全",
+      "category": "安全架構",
+      "date": "2026-05-19",
+      "excerpt": "每次喺博彩平台玩遊戲，我哋最擔心嘅就係個人資料會唔會洩漏，資金安唔安全。到底平台用嘅SSL加密係乜？又點樣可以自己查證佢係咪真係做到足呢？",
+      "imageUrl": "https://pixabay.com/get/g4d828c657884e9b664e0d4ce0c06d71eced9ebfb365b20a7af30050c9da6ad7cf10c527591c2d494d0e63e1bc01daa147581530e4044170b2e1b51dc4d9fb4bf_640.jpg"
+    },
+    {
       "slug": "pagcor-mga-license-difference",
       "title": "PAGCOR同MGA牌照有咩分別？香港玩家2026年揀平台必睇",
       "category": "合法牌照",

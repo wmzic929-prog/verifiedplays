@@ -270,5 +270,13 @@
       }
     }).catch(() => {});
 </script>
+<script>
+(function(){
+  var S='platform-review';
+  var u='utm_source='+S+'&utm_medium=referral&utm_campaign=satellite-network';
+  function pos(el){var n=el;while(n&&n!==document.body){var t=n.tagName,c=n.className||'';if(t==='HEADER')return 'header-cta';if(c.indexOf('hero-')!==-1)return 'hero-cta';if(t==='ASIDE')return 'sidebar-cta';if(c.indexOf('cta-banner')!==-1||c.indexOf('cta-fullwidth')!==-1)return 'banner-cta';if(t==='FOOTER')return 'footer-link';n=n.parentElement;}return 'blog-cta';}
+  document.querySelectorAll('a[rel*="noopener"]').forEach(function(a){var h=a.getAttribute('href')||'';if(!h||h.indexOf('utm_')!==-1)return;a.href=h+(h.indexOf('?')!==-1?'&':'?')+u+'&utm_content='+pos(a);});
+})();
+</script>
 </body>
 </html>

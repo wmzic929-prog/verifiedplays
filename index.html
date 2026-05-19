@@ -56,7 +56,7 @@
       <a href="https://verifiedplays.com/blog.html" class="nav-link">深度分析</a>
       <a href="https://verifiedplays.com/about.html" class="nav-link">編輯陣容</a>
     </nav>
-    <a href="https://spheretap.com/" class="btn btn-primary btn-sm" target="_blank" rel="noopener">立即前往</a>
+    <a href="https://spheretap.com/?utm_source=platform-review&utm_medium=referral&utm_campaign=satellite-network&utm_content=header-cta" class="btn btn-primary btn-sm" target="_blank" rel="noopener">立即前往</a>
   </div>
 </header>
 
@@ -75,7 +75,7 @@
         <span class="author-name">吳曉琳</span>
         <span class="author-sep">·</span>
         <span id="hero-date">最新更新</span>
-        <a href="https://spheretap.com/" class="btn btn-primary btn-sm" target="_blank" rel="noopener" style="margin-left:auto;">閱讀詳情</a>
+        <a href="https://spheretap.com/?utm_source=platform-review&utm_medium=referral&utm_campaign=satellite-network&utm_content=hero-cta" class="btn btn-primary btn-sm" target="_blank" rel="noopener" style="margin-left:auto;">閱讀詳情</a>
       </div>
     </div>
 
@@ -212,7 +212,7 @@
       </div>
       <div>
         <div class="footer-col-title">平台</div>
-        <a href="https://spheretap.com/" class="footer-link" target="_blank" rel="noopener">官方平台</a>
+        <a href="https://spheretap.com/?utm_source=platform-review&utm_medium=referral&utm_campaign=satellite-network&utm_content=footer-link" class="footer-link" target="_blank" rel="noopener">官方平台</a>
       </div>
       <div>
         <div class="footer-col-title">法律</div>
@@ -269,14 +269,6 @@
           </div>`).join('');
       }
     }).catch(() => {});
-</script>
-<script>
-(function(){
-  var S='platform-review';
-  var u='utm_source='+S+'&utm_medium=referral&utm_campaign=satellite-network';
-  function pos(el){var n=el;while(n&&n!==document.body){var t=n.tagName,c=n.className||'';if(t==='HEADER')return 'header-cta';if(c.indexOf('hero-')!==-1)return 'hero-cta';if(t==='ASIDE')return 'sidebar-cta';if(c.indexOf('cta-banner')!==-1||c.indexOf('cta-fullwidth')!==-1)return 'banner-cta';if(t==='FOOTER')return 'footer-link';n=n.parentElement;}return 'blog-cta';}
-  document.querySelectorAll('a[rel*="noopener"]').forEach(function(a){var h=a.getAttribute('href')||'';if(!h||h.indexOf('utm_')!==-1)return;a.href=h+(h.indexOf('?')!==-1?'&':'?')+u+'&utm_content='+pos(a);});
-})();
 </script>
 </body>
 </html>

@@ -39,8 +39,10 @@
       "category": "提款速度",
       "angle": "疑問句型",
       "image_theme": "casino withdrawal rejected reasons solutions",
-      "status": "available",
-      "writing_style": "問題排查框架，含常見原因，1300字"
+      "status": "used",
+      "writing_style": "問題排查框架，含常見原因，1300字",
+      "slug": "withdrawal-request-rejected-solution",
+      "used_date": "2026-05-20"
     },
     {
       "id": 5,

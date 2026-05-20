@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "withdrawal-request-rejected-solution",
+      "title": "網上提款被拒絕？解密平台審核、牌照與安全步驟",
+      "category": "提款速度",
+      "date": "2026-05-20",
+      "excerpt": "搞咗一大輪，終於贏咗錢想提款，點知申請竟然被拒？我完全明白你嗰種又嬲又灰嘅心情！",
+      "imageUrl": "https://pixabay.com/get/gdd12da8db4d87e85262f808e0bbf2c59332191779b87d037e3288aa40b5425881e2bf4bb9214980f5f57965ab2cb98e948390cefc2aa1e6621d2f5ec194fca5f_640.jpg"
+    },
+    {
       "slug": "online-gaming-platform-ssl-encryption-verification",
       "title": "博彩平台SSL加密驗證指南：保障玩家數據安全",
       "category": "安全架構",
@@ -15,14 +23,6 @@
       "date": "2026-05-18",
       "excerpt": "我見過唔少香港玩家俾無牌或劣質牌照嘅平台騙走積蓄，以為有牌照就安全，但PAGCOR同MGA嘅保障差距真係差天共地。",
       "imageUrl": ""
-    },
-    {
-      "slug": "verify-gambling-license-guide",
-      "title": "如何驗證博彩平台牌照真偽？5大核查方法完整指南",
-      "category": "合法牌照",
-      "date": "2026-05-16",
-      "excerpt": "上網賭波前，你有冇認真核查過平台牌照係咪真實？每年有唔少玩家因為假牌照而損失幾萬蚊，甚至投訴無門、血本無歸。",
-      "imageUrl": "https://pixabay.com/get/g541cf565cb2dccbd96fcb17552b90179a4b5f1d1aec46563137d1f206db9d6baf472ba10be48852988fd93c66a9a748a22ce684d2aeabd3fee5c2677e521a7a0_640.jpg"
     }
   ]
 }

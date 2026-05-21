@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "how-to-verify-betting-platform-license",
+      "title": "博彩平台牌照真偽驗證：香港玩家必讀防騙指南",
+      "category": "合法牌照",
+      "date": "2026-05-21",
+      "excerpt": "每次想玩兩手，心水平台係咪真係有牌？我成日都好擔心，唔想辛苦錢俾黑平台呃走！",
+      "imageUrl": "https://pixabay.com/get/g4fca82540df11f4b37ce24f6ffa24524cdca579a7928a89939d9c0d2c8f5212044922cbac524ffd016524b669546cf6d466fecd00dab2e0a2a244443383bb579_640.jpg"
+    },
+    {
       "slug": "online-betting-kyc-verification-time",
       "title": "博彩平台KYC驗證需時幾耐？掌握安全提款速度、監管合規性與平台信譽，避開常見陷阱",
       "category": "提款速度",
@@ -15,14 +23,6 @@
       "date": "2026-05-20",
       "excerpt": "搞咗一大輪，終於贏咗錢想提款，點知申請竟然被拒？我完全明白你嗰種又嬲又灰嘅心情！",
       "imageUrl": "/blog/img/withdrawal-request-rejected-solution.jpg"
-    },
-    {
-      "slug": "online-gaming-platform-ssl-encryption-verification",
-      "title": "博彩平台SSL加密驗證指南：保障玩家數據安全",
-      "category": "安全架構",
-      "date": "2026-05-19",
-      "excerpt": "每次喺博彩平台玩遊戲，我哋最擔心嘅就係個人資料會唔會洩漏，資金安唔安全。到底平台用嘅SSL加密係乜？又點樣可以自己查證佢係咪真係做到足呢？",
-      "imageUrl": "/blog/img/online-gaming-platform-ssl-encryption-verification.jpg"
     }
   ]
 }

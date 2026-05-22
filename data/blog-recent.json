@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "betting-platform-ssl-encryption-verification",
+      "title": "博彩平台SSL加密點查驗？確保你嘅資金同私隱安全",
+      "category": "安全架構",
+      "date": "2026-05-22",
+      "excerpt": "每次玩線上博彩平台，你係咪都好擔心個人資料同錢銀唔安全？我哋教你一眼睇穿平台有無用SSL加密，玩得更放心！",
+      "imageUrl": "https://pixabay.com/get/g31bb0a5fc90c2c348c395d4d5be7369b241a1539127eb02c0b232db5e8e68ce0f2c64160127d495508435d61836be472b39f56f27c7ab2cbf942563cf6168ecb_640.jpg"
+    },
+    {
       "slug": "pagcor-mga-license-comparison",
       "title": "PAGCOR同MGA牌照有咩分別？一文搞清合法網上賭場點揀！",
       "category": "合法牌照",
@@ -15,14 +23,6 @@
       "date": "2026-05-21",
       "excerpt": "每次想玩兩手，心水平台係咪真係有牌？我成日都好擔心，唔想辛苦錢俾黑平台呃走！",
       "imageUrl": "https://pixabay.com/get/g4fca82540df11f4b37ce24f6ffa24524cdca579a7928a89939d9c0d2c8f5212044922cbac524ffd016524b669546cf6d466fecd00dab2e0a2a244443383bb579_640.jpg"
-    },
-    {
-      "slug": "online-betting-kyc-verification-time",
-      "title": "博彩平台KYC驗證需時幾耐？掌握安全提款速度、監管合規性與平台信譽，避開常見陷阱",
-      "category": "提款速度",
-      "date": "2026-05-21",
-      "excerpt": "每次想提款，KYC驗證呢關都搞到我心掛掛，到底要等幾耐先搞掂？真係好想快啲收到錢！",
-      "imageUrl": "https://pixabay.com/get/g649f5444814c37aca337ef39f870c1f7762b8f3f306ace9e5fb4eec855eb266ec028090873820bc8bd5367fb0f1221a4193093217d2b1a5b913948a5ef37819d_640.jpg"
     }
   ]
 }

@@ -17,8 +17,10 @@
       "category": "合法牌照",
       "angle": "疑問句型",
       "image_theme": "PAGCOR MGA gambling license comparison",
-      "status": "available",
-      "writing_style": "牌照對比分析，含權威性排名，1200字"
+      "status": "used",
+      "writing_style": "牌照對比分析，含權威性排名，1200字",
+      "slug": "pagcor-mga-license-comparison",
+      "used_date": "2026-05-22"
     },
     {
       "id": 3,

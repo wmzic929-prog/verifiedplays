@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "article",
+      "title": "article",
+      "category": "General",
+      "date": "2026-05-22",
+      "excerpt": "```json",
+      "imageUrl": "https://pixabay.com/get/gf4eefd871203df4fe761f566f06a9ecb03ebb72c313afa3cb80cbddfb5cf2a8dc6adfea35c806ebdb37890cbacc1b8d771be7c429618c14af2289ad79f924341_640.jpg"
+    },
+    {
       "slug": "betting-platform-ssl-encryption-verification",
       "title": "博彩平台SSL加密點查驗？確保你嘅資金同私隱安全",
       "category": "安全架構",
@@ -15,14 +23,6 @@
       "date": "2026-05-22",
       "excerpt": "每次揀網上賭場，係咪都見到PAGCOR同MGA牌照？究竟佢哋有咩分別，點樣先知邊個平台最可靠？今日我哋一齊揭開呢個謎團！",
       "imageUrl": "https://pixabay.com/get/gf34e527750fea0497bbb29fe5edffcd5f5c16f2de5409b8d6d2fabfba60870412a6756b35178e0b4e9ea3aadc7e6c7541109a04e4798031a29f0f1972a8ad69e_640.jpg"
-    },
-    {
-      "slug": "how-to-verify-betting-platform-license",
-      "title": "博彩平台牌照真偽驗證：香港玩家必讀防騙指南",
-      "category": "合法牌照",
-      "date": "2026-05-21",
-      "excerpt": "每次想玩兩手，心水平台係咪真係有牌？我成日都好擔心，唔想辛苦錢俾黑平台呃走！",
-      "imageUrl": "https://pixabay.com/get/g4fca82540df11f4b37ce24f6ffa24524cdca579a7928a89939d9c0d2c8f5212044922cbac524ffd016524b669546cf6d466fecd00dab2e0a2a244443383bb579_640.jpg"
     }
   ]
 }

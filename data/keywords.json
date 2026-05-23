@@ -61,8 +61,10 @@
       "category": "存款方式",
       "angle": "疑問句型",
       "image_theme": "FPS vs USDT casino deposit comparison",
-      "status": "available",
-      "writing_style": "支付方式對比，含手續費，1200字"
+      "status": "used",
+      "writing_style": "支付方式對比，含手續費，1200字",
+      "slug": "fps-usdt-deposit-difference",
+      "used_date": "2026-05-23"
     },
     {
       "id": 7,

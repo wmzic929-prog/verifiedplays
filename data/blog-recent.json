@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "fps-usdt-deposit-difference",
+      "title": "FPS同USDT入款點揀？安全快捷大比拼",
+      "category": "存款方式",
+      "date": "2026-05-23",
+      "excerpt": "揀網上平台入款，最怕就係錢唔知去咗邊！FPS同USDT點揀先安全又方便？我嚟同你逐一拆解。",
+      "imageUrl": "https://pixabay.com/get/ga207b8e5da9c111714e740cb5a04937db3d0e840ca378eac18e647f77aa519ad08b26927d527c6a7a80c445d22189294dfee304c73cba0cee5f7737601a14fd4_640.jpg"
+    },
+    {
       "slug": "kyc-verification-time-gambling-platform",
       "title": "博彩平台KYC驗證要幾耐？實測提款速度與安全",
       "category": "提款速度",
@@ -15,14 +23,6 @@
       "date": "2026-05-22",
       "excerpt": "```json",
       "imageUrl": "https://pixabay.com/get/gf4eefd871203df4fe761f566f06a9ecb03ebb72c313afa3cb80cbddfb5cf2a8dc6adfea35c806ebdb37890cbacc1b8d771be7c429618c14af2289ad79f924341_640.jpg"
-    },
-    {
-      "slug": "betting-platform-ssl-encryption-verification",
-      "title": "博彩平台SSL加密點查驗？確保你嘅資金同私隱安全",
-      "category": "安全架構",
-      "date": "2026-05-22",
-      "excerpt": "每次玩線上博彩平台，你係咪都好擔心個人資料同錢銀唔安全？我哋教你一眼睇穿平台有無用SSL加密，玩得更放心！",
-      "imageUrl": "https://pixabay.com/get/g31bb0a5fc90c2c348c395d4d5be7369b241a1539127eb02c0b232db5e8e68ce0f2c64160127d495508435d61836be472b39f56f27c7ab2cbf942563cf6168ecb_640.jpg"
     }
   ]
 }

@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "payme-deposit-betting-platform-safety-hong-kong",
+      "title": "PayMe存款博彩平台安全嗎？香港玩家必讀安全指南",
+      "category": "存款方式",
+      "date": "2026-05-23",
+      "excerpt": "作為一個資深玩家，我都明白大家最擔心嘅就係錢銀安全！用PayMe存錢落博彩平台，究竟安唔安全呢？",
+      "imageUrl": "https://pixabay.com/get/g54c7c64e82b83463aac966b4f6f6eeeebdecd6a313964e721508351328850edea8ac28076fdced2fc6066e0361af88bc19704ced8d5975e74d7cbf654d466e8e_640.jpg"
+    },
+    {
       "slug": "fps-usdt-deposit-difference",
       "title": "FPS同USDT入款點揀？安全快捷大比拼",
       "category": "存款方式",
@@ -15,14 +23,6 @@
       "date": "2026-05-23",
       "excerpt": "每次贏錢想提款，最怕就係KYC驗證搞好耐！到底博彩平台KYC驗證需要多長時間？我哋一齊揭開呢個謎團，幫你更快攞錢！",
       "imageUrl": "https://pixabay.com/get/gfb179abc3953c9da5b80d3fed60a7b251d70644c300c1c39519b96307e2808769c9de9e30bf97f0c9d7bb321bd6a0c424f78cf42f35f1e018dbd5ea1674ead04_640.jpg"
-    },
-    {
-      "slug": "article",
-      "title": "article",
-      "category": "General",
-      "date": "2026-05-22",
-      "excerpt": "```json",
-      "imageUrl": "https://pixabay.com/get/gf4eefd871203df4fe761f566f06a9ecb03ebb72c313afa3cb80cbddfb5cf2a8dc6adfea35c806ebdb37890cbacc1b8d771be7c429618c14af2289ad79f924341_640.jpg"
     }
   ]
 }

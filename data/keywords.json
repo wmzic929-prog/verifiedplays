@@ -94,8 +94,10 @@
       "category": "客服評分",
       "angle": "疑問句型",
       "image_theme": "casino 24 hour customer service test verify",
-      "status": "available",
-      "writing_style": "實測報告，含測試方法，1200字"
+      "status": "used",
+      "writing_style": "實測報告，含測試方法，1200字",
+      "slug": "24-hour-customer-service-test",
+      "used_date": "2026-05-24"
     },
     {
       "id": 10,

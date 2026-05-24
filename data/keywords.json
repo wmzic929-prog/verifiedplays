@@ -83,8 +83,10 @@
       "category": "客服評分",
       "angle": "疑問句型",
       "image_theme": "casino customer service rating measurement criteria",
-      "status": "available",
-      "writing_style": "評測方法論，含評分維度，1300字"
+      "status": "used",
+      "writing_style": "評測方法論，含評分維度，1300字",
+      "slug": "how-to-measure-gambling-platform-customer-service-rating",
+      "used_date": "2026-05-24"
     },
     {
       "id": 9,

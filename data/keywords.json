@@ -127,8 +127,10 @@
       "category": "提款速度",
       "angle": "疑問句型",
       "image_theme": "casino deposit withdrawal limits comparison",
-      "status": "available",
-      "writing_style": "比較分析，含表格，1300字"
+      "status": "used",
+      "writing_style": "比較分析，含表格，1300字",
+      "slug": "article-12",
+      "used_date": "2026-05-25"
     },
     {
       "id": 13,

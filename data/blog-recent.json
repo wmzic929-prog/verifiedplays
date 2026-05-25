@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "article",
+      "title": "article",
+      "category": "General",
+      "date": "2026-05-25",
+      "excerpt": "{",
+      "imageUrl": "https://pixabay.com/get/g9433d831c42765151f3bfb89cc954d5d67bf2196ff5743170ebef3833d0c5e0bbcf51c7bf1b4fac6d4eb1a8a71504676286055dc5a5fd62d8deca84b244bf1ce_640.jpg"
+    },
+    {
       "slug": "betting-platform-withdrawal-delays-guide",
       "title": "博彩平台出款慢？即學點樣保障自己！",
       "category": "提款速度",
@@ -15,14 +23,6 @@
       "date": "2026-05-24",
       "excerpt": "每次見到「24小時客服」嘅承諾，我哋都覺得好安心，但心裡面總係有啲懷疑：佢哋真係全天候Standby？",
       "imageUrl": "https://pixabay.com/get/g1abee2f55dbf794604f6da6125ce740b80cf063076169b6f0e0ae71059301991bf0ff8571b478d4d04f3017fed12fb2ad2491c95a899c6fabd02a480818953e9_640.jpg"
-    },
-    {
-      "slug": "how-to-measure-gambling-platform-customer-service-rating",
-      "title": "博彩平台客服評分點樣先算好？專業衡量準則大公開",
-      "category": "客服評分",
-      "date": "2026-05-24",
-      "excerpt": "諗住玩網上博彩平台，最怕就係遇到問題冇人理？我哋都試過，所以深明一個好嘅客服團隊有幾重要！",
-      "imageUrl": "https://pixabay.com/get/g5d54938a75c9ca3f88aa68879cac6055c944166b3778316fb008cb0647d0057da213be1450b99d44aef490d839f62dc582f38ba1f66cebe92c0b1800c296d1b5_640.jpg"
     }
   ]
 }

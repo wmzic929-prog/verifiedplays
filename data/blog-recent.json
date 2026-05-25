@@ -1,14 +1,6 @@
 {
   "articles": [
     {
-      "slug": "article",
-      "title": "article",
-      "category": "General",
-      "date": "2026-05-25",
-      "excerpt": "{",
-      "imageUrl": "https://pixabay.com/get/g9433d831c42765151f3bfb89cc954d5d67bf2196ff5743170ebef3833d0c5e0bbcf51c7bf1b4fac6d4eb1a8a71504676286055dc5a5fd62d8deca84b244bf1ce_640.jpg"
-    },
-    {
       "slug": "betting-platform-withdrawal-delays-guide",
       "title": "博彩平台出款慢？即學點樣保障自己！",
       "category": "提款速度",

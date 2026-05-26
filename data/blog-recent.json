@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "hong-kong-overseas-gambling-legal-risks",
+      "title": "香港玩家用境外博彩平台有冇法律風險？牌照認證指南",
+      "category": "合法牌照",
+      "date": "2026-05-26",
+      "excerpt": "我哋香港人咁鍾意玩兩手，但想試下境外博彩平台，心裡面係咪都驚驚地，驚會唔會有法律風險㗎？",
+      "imageUrl": "https://pixabay.com/get/gb941cee3199a04009ea2ec9b643dbf204b46477b16d947dbc86b715a455371873b11eb6fe28079fd49d795ab5603daecee2d8c61536e1ffbdec82f6d5d192963_640.jpg"
+    },
+    {
       "slug": "article-12",
       "title": "博彩平台的存款上限和提款上限怎麼比較？",
       "category": "提款速度",
@@ -15,14 +23,6 @@
       "date": "2026-05-24",
       "excerpt": "有冇試過喺博彩平台贏咗錢，但係想提款嘅時候就一直被拖延？我明白嗰種心急又無奈嘅感覺！",
       "imageUrl": "/blog/img/betting-platform-withdrawal-delays-guide.jpg"
-    },
-    {
-      "slug": "24-hour-customer-service-test",
-      "title": "香港網上博彩平台24小時客服實測：真定假？",
-      "category": "客服評分",
-      "date": "2026-05-24",
-      "excerpt": "每次見到「24小時客服」嘅承諾，我哋都覺得好安心，但心裡面總係有啲懷疑：佢哋真係全天候Standby？",
-      "imageUrl": "/blog/img/24-hour-customer-service-test.jpg"
     }
   ]
 }

@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "usdt-withdrawal-speed-comparison-platforms",
+      "title": "USDT提款速度比較：邊個平台最快？安全過數攻略",
+      "category": "提款速度",
+      "date": "2026-05-26",
+      "excerpt": "提款速度慢到令人等到火都嚟？尤其係USDT，大家最關心梗係快唔快同穩唔穩陣！",
+      "imageUrl": "/blog/img/usdt-withdrawal-speed-comparison-platforms.jpg"
+    },
+    {
       "slug": "online-gaming-platform-fund-protection-mechanisms",
       "title": "博彩平台資金保護：點樣揀可靠平台？",
       "category": "安全架構",
@@ -15,14 +23,6 @@
       "date": "2026-05-26",
       "excerpt": "唉，我哋都想開心玩遊戲，但最怕就係遇到騙子平台！到底點樣先可以一眼睇穿佢哋嘅詐騙信號，保障自己嘅血汗錢呢？",
       "imageUrl": "https://pixabay.com/get/gbfa46b9022773bda1954ee182c02f89eb92bef87bb3f11c419f0fae1fc6292aafde5a4e79e9521fb025225948292353fa3e50e5901bce8a882cb9c86a709e95d_640.jpg"
-    },
-    {
-      "slug": "betting-platform-vip-program-worth-joining",
-      "title": "博彩平台VIP計劃：真係值得加入？安全性、優惠大解構",
-      "category": "客服評分",
-      "date": "2026-05-26",
-      "excerpt": "我哋成日都收到讀者問，究竟博彩平台嘅VIP計劃係咪真係咁著數？今日就等我哋幫大家拆解！",
-      "imageUrl": "/blog/img/betting-platform-vip-program-worth-joining.jpg"
     }
   ]
 }

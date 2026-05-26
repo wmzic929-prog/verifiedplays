@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "online-gaming-platform-fund-protection-mechanisms",
+      "title": "博彩平台資金保護：點樣揀可靠平台？",
+      "category": "安全架構",
+      "date": "2026-05-26",
+      "excerpt": "每次想喺博彩平台玩，我哋最擔心嘅就係錢嘅安全，到底啲平台會點樣保護我哋嘅資金呢？",
+      "imageUrl": "/blog/img/online-gaming-platform-fund-protection-mechanisms.jpg"
+    },
+    {
       "slug": "how-to-identify-scam-gambling-platforms",
       "title": "網上博彩詐騙信號：香港玩家點樣識別？",
       "category": "安全架構",
@@ -15,14 +23,6 @@
       "date": "2026-05-26",
       "excerpt": "我哋成日都收到讀者問，究竟博彩平台嘅VIP計劃係咪真係咁著數？今日就等我哋幫大家拆解！",
       "imageUrl": "/blog/img/betting-platform-vip-program-worth-joining.jpg"
-    },
-    {
-      "slug": "hong-kong-overseas-gambling-legal-risks",
-      "title": "香港玩家用境外博彩平台有冇法律風險？牌照認證指南",
-      "category": "合法牌照",
-      "date": "2026-05-26",
-      "excerpt": "我哋香港人咁鍾意玩兩手，但想試下境外博彩平台，心裡面係咪都驚驚地，驚會唔會有法律風險㗎？",
-      "imageUrl": "https://pixabay.com/get/gb941cee3199a04009ea2ec9b643dbf204b46477b16d947dbc86b715a455371873b11eb6fe28079fd49d795ab5603daecee2d8c61536e1ffbdec82f6d5d192963_640.jpg"
     }
   ]
 }

@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "betting-platform-account-blocked-appeal-channels",
+      "title": "博彩平台帳號被封？即睇申訴途徑同自保攻略！",
+      "category": "客服評分",
+      "date": "2026-05-26",
+      "excerpt": "嘩！我個博彩平台帳號無啦啦被封咗，入面仲有錢㗎！到底可以點樣申訴，攞返我嘅血汗錢呀？真係好徬徨！",
+      "imageUrl": "/blog/img/betting-platform-account-blocked-appeal-channels.jpg"
+    },
+    {
       "slug": "usdt-withdrawal-speed-comparison-platforms",
       "title": "USDT提款速度比較：邊個平台最快？安全過數攻略",
       "category": "提款速度",
@@ -15,14 +23,6 @@
       "date": "2026-05-26",
       "excerpt": "每次想喺博彩平台玩，我哋最擔心嘅就係錢嘅安全，到底啲平台會點樣保護我哋嘅資金呢？",
       "imageUrl": "/blog/img/online-gaming-platform-fund-protection-mechanisms.jpg"
-    },
-    {
-      "slug": "how-to-identify-scam-gambling-platforms",
-      "title": "網上博彩詐騙信號：香港玩家點樣識別？",
-      "category": "安全架構",
-      "date": "2026-05-26",
-      "excerpt": "唉，我哋都想開心玩遊戲，但最怕就係遇到騙子平台！到底點樣先可以一眼睇穿佢哋嘅詐騙信號，保障自己嘅血汗錢呢？",
-      "imageUrl": "https://pixabay.com/get/gbfa46b9022773bda1954ee182c02f89eb92bef87bb3f11c419f0fae1fc6292aafde5a4e79e9521fb025225948292353fa3e50e5901bce8a882cb9c86a709e95d_640.jpg"
     }
   ]
 }

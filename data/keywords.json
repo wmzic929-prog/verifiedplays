@@ -138,8 +138,10 @@
       "category": "合法牌照",
       "angle": "疑問句型",
       "image_theme": "hong kong offshore gambling platform legal risk",
-      "status": "available",
-      "writing_style": "法律分析，客觀中立，1200字"
+      "status": "used",
+      "writing_style": "法律分析，客觀中立，1200字",
+      "slug": "hong-kong-overseas-gambling-legal-risks",
+      "used_date": "2026-05-26"
     },
     {
       "id": 14,

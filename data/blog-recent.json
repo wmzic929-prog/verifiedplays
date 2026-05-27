@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "gaming-platform-privacy-policy-content",
+      "title": "博彩平台隱私政策點樣保障玩家資料？詳解內容",
+      "category": "安全架構",
+      "date": "2026-05-27",
+      "excerpt": "講起網上博彩，大家最擔心嘅係咪自己啲個人資料會唔會洩漏？我哋都一樣！所以搞清楚博彩平台嘅隱私政策，真係好關鍵，因為佢直接關係到你嘅數據安全。",
+      "imageUrl": "/blog/img/gaming-platform-privacy-policy-content.jpg"
+    },
+    {
       "slug": "how-to-safely-deposit-first-time-gambling",
       "title": "首次博彩平台入款安全攻略：新手必讀指南",
       "category": "存款方式",
@@ -15,14 +23,6 @@
       "date": "2026-05-26",
       "excerpt": "嘩！我個博彩平台帳號無啦啦被封咗，入面仲有錢㗎！到底可以點樣申訴，攞返我嘅血汗錢呀？真係好徬徨！",
       "imageUrl": "/blog/img/betting-platform-account-blocked-appeal-channels.jpg"
-    },
-    {
-      "slug": "usdt-withdrawal-speed-comparison-platforms",
-      "title": "USDT提款速度比較：邊個平台最快？安全過數攻略",
-      "category": "提款速度",
-      "date": "2026-05-26",
-      "excerpt": "提款速度慢到令人等到火都嚟？尤其係USDT，大家最關心梗係快唔快同穩唔穩陣！",
-      "imageUrl": "/blog/img/usdt-withdrawal-speed-comparison-platforms.jpg"
     }
   ]
 }

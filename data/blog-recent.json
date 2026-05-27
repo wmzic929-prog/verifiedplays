@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "how-to-safely-deposit-first-time-gambling",
+      "title": "首次博彩平台入款安全攻略：新手必讀指南",
+      "category": "存款方式",
+      "date": "2026-05-27",
+      "excerpt": "第一次想喺博彩平台試吓手氣，但又怕唔安全？我完全明白你嘅擔心！等我哋幫你拆解啦！",
+      "imageUrl": "/blog/img/how-to-safely-deposit-first-time-gambling.jpg"
+    },
+    {
       "slug": "betting-platform-account-blocked-appeal-channels",
       "title": "博彩平台帳號被封？即睇申訴途徑同自保攻略！",
       "category": "客服評分",
@@ -15,14 +23,6 @@
       "date": "2026-05-26",
       "excerpt": "提款速度慢到令人等到火都嚟？尤其係USDT，大家最關心梗係快唔快同穩唔穩陣！",
       "imageUrl": "/blog/img/usdt-withdrawal-speed-comparison-platforms.jpg"
-    },
-    {
-      "slug": "online-gaming-platform-fund-protection-mechanisms",
-      "title": "博彩平台資金保護：點樣揀可靠平台？",
-      "category": "安全架構",
-      "date": "2026-05-26",
-      "excerpt": "每次想喺博彩平台玩，我哋最擔心嘅就係錢嘅安全，到底啲平台會點樣保護我哋嘅資金呢？",
-      "imageUrl": "/blog/img/online-gaming-platform-fund-protection-mechanisms.jpg"
     }
   ]
 }

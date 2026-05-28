@@ -259,8 +259,10 @@
       "category": "存款方式",
       "angle": "數據比較型",
       "image_theme": "casino deposit methods comprehensive comparison",
-      "status": "available",
-      "writing_style": "比較表格格式，1350字"
+      "status": "used",
+      "writing_style": "比較表格格式，1350字",
+      "slug": "betting-platform-deposit-methods-comparison",
+      "used_date": "2026-05-28"
     },
     {
       "id": 25,

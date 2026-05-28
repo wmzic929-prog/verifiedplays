@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "platform-cs-speed-ranking",
+      "title": "博彩平台客服回應速度實測排名：邊間最快？",
+      "category": "客服評分",
+      "date": "2026-05-28",
+      "excerpt": "玩博彩平台最怕遇到問題冇人理？我哋親身實測各大平台嘅客服回應速度，睇下邊間真心幫到手，唔使你等到頸都長！",
+      "imageUrl": "/blog/img/platform-cs-speed-ranking.jpg"
+    },
+    {
       "slug": "mainstream-betting-platform-withdrawal-speed-2025",
       "title": "2025主流博彩平台提款速度實測：安全、合規與信譽分析",
       "category": "提款速度",
@@ -15,14 +23,6 @@
       "date": "2026-05-27",
       "excerpt": "喺香港玩網上博彩，最擔心都係錢銀安全！我哋會幫你拆解點樣揀到最穩陣、最可靠嘅平台，唔使再提心吊膽。",
       "imageUrl": "/blog/img/hong-kong-safest-betting-platforms-2025.jpg"
-    },
-    {
-      "slug": "gaming-platform-privacy-policy-content",
-      "title": "博彩平台隱私政策點樣保障玩家資料？詳解內容",
-      "category": "安全架構",
-      "date": "2026-05-27",
-      "excerpt": "講起網上博彩，大家最擔心嘅係咪自己啲個人資料會唔會洩漏？我哋都一樣！所以搞清楚博彩平台嘅隱私政策，真係好關鍵，因為佢直接關係到你嘅數據安全。",
-      "imageUrl": "/blog/img/gaming-platform-privacy-policy-content.jpg"
     }
   ]
 }

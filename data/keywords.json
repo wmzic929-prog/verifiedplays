@@ -248,8 +248,10 @@
       "category": "客服評分",
       "angle": "數據比較型",
       "image_theme": "casino customer service response time ranking test",
-      "status": "available",
-      "writing_style": "評測報告，含評分矩陣，1350字"
+      "status": "used",
+      "writing_style": "評測報告，含評分矩陣，1350字",
+      "slug": "platform-cs-speed-ranking",
+      "used_date": "2026-05-28"
     },
     {
       "id": 24,

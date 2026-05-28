@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "betting-platform-deposit-methods-comparison",
+      "title": "2026博彩平台存款方式大比拼：安全、速度、手續費全攻略",
+      "category": "存款方式",
+      "date": "2026-05-28",
+      "excerpt": "作為資深玩家，我深知揀啱博彩平台嘅存款方式有幾重要！唔止要快，更要安全穩陣，手續費仲要透明合理。",
+      "imageUrl": "/blog/img/betting-platform-deposit-methods-comparison.jpg"
+    },
+    {
       "slug": "platform-cs-speed-ranking",
       "title": "博彩平台客服回應速度實測排名：邊間最快？",
       "category": "客服評分",
@@ -15,14 +23,6 @@
       "date": "2026-05-28",
       "excerpt": "玩咗咁多年網上博彩，最怕就係贏咗錢提唔到款！2025年主流平台提款速度係點？我哋幫你實測！",
       "imageUrl": "/blog/img/mainstream-betting-platform-withdrawal-speed-2025.jpg"
-    },
-    {
-      "slug": "hong-kong-safest-betting-platforms-2025",
-      "title": "2025香港最安全博彩平台評分：保障你嘅資金",
-      "category": "安全架構",
-      "date": "2026-05-27",
-      "excerpt": "喺香港玩網上博彩，最擔心都係錢銀安全！我哋會幫你拆解點樣揀到最穩陣、最可靠嘅平台，唔使再提心吊膽。",
-      "imageUrl": "/blog/img/hong-kong-safest-betting-platforms-2025.jpg"
     }
   ]
 }

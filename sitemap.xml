@@ -221,4 +221,12 @@
     <priority>0.7</priority>
   </url>
 
+
+  <url>
+    <loc>https://verifiedplays.com/blog/platform-cs-speed-ranking</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>

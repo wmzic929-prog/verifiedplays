@@ -281,8 +281,10 @@
       "category": "提款速度",
       "angle": "數據比較型",
       "image_theme": "casino transaction fees deposit withdrawal comparison",
-      "status": "available",
-      "writing_style": "費率對比表格，1300字"
+      "status": "used",
+      "writing_style": "費率對比表格，1300字",
+      "slug": "online-gaming-platform-fees-comparison",
+      "used_date": "2026-05-29"
     },
     {
       "id": 27,

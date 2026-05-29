@@ -270,8 +270,10 @@
       "category": "合法牌照",
       "angle": "數據比較型",
       "image_theme": "UKGC MGA PAGCOR license credibility rating",
-      "status": "available",
-      "writing_style": "牌照排名分析，1300字"
+      "status": "used",
+      "writing_style": "牌照排名分析，1300字",
+      "slug": "gambling-license-trust-score-ukgc-mga-pagcor",
+      "used_date": "2026-05-29"
     },
     {
       "id": 26,

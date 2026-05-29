@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "online-gaming-platform-fees-comparison",
+      "title": "主流博彩平台入款與出款手續費機制比較研究",
+      "category": "undefined",
+      "date": "2026-05-29",
+      "excerpt": "每次想玩兩手，最怕就係俾手續費食咗我哋嘅彩金！究竟點樣揀平台先可以又玩得盡興又慳錢？",
+      "imageUrl": "/blog/img/online-gaming-platform-fees-comparison.jpg"
+    },
+    {
       "slug": "gambling-license-trust-score-ukgc-mga-pagcor",
       "title": "博彩平台牌照點揀？UKGC、MGA、PAGCOR可信度大比拼",
       "category": "合法牌照",
@@ -15,14 +23,6 @@
       "date": "2026-05-28",
       "excerpt": "作為資深玩家，我深知揀啱博彩平台嘅存款方式有幾重要！唔止要快，更要安全穩陣，手續費仲要透明合理。",
       "imageUrl": "/blog/img/betting-platform-deposit-methods-comparison.jpg"
-    },
-    {
-      "slug": "platform-cs-speed-ranking",
-      "title": "博彩平台客服回應速度實測排名：邊間最快？",
-      "category": "客服評分",
-      "date": "2026-05-28",
-      "excerpt": "玩博彩平台最怕遇到問題冇人理？我哋親身實測各大平台嘅客服回應速度，睇下邊間真心幫到手，唔使你等到頸都長！",
-      "imageUrl": "/blog/img/platform-cs-speed-ranking.jpg"
     }
   ]
 }

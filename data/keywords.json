@@ -292,8 +292,10 @@
       "category": "存款方式",
       "angle": "數據比較型",
       "image_theme": "payment method arrival speed casino comparison",
-      "status": "available",
-      "writing_style": "數據報告，含時間表，1350字"
+      "status": "used",
+      "writing_style": "數據報告，含時間表，1350字",
+      "slug": "hk-gaming-platform-payment-speed-comparison",
+      "used_date": "2026-05-30"
     },
     {
       "id": 28,

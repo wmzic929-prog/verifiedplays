@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "hk-gaming-platform-payment-speed-comparison",
+      "title": "香港博彩平台各類支付方式到帳速度之實證比較研究",
+      "category": "undefined",
+      "date": "2026-05-30",
+      "excerpt": "玩咗咁多年網上博彩，最怕就係贏錢提唔到款，或者入錢慢到錯過黃金機會！今次我哋實測下香港各大平台嘅支付速度，睇吓邊個最快手又最穩陣！",
+      "imageUrl": "/blog/img/hk-gaming-platform-payment-speed-comparison.jpg"
+    },
+    {
       "slug": "online-gaming-platform-fees-comparison",
       "title": "主流博彩平台入款與出款手續費機制比較研究",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-29",
       "excerpt": "玩網上博彩最怕咩？梗係平台唔安全！我哋一齊揭開UKGC、MGA、PAGCOR呢三大牌照嘅神秘面紗，睇下邊個最值得信賴！",
       "imageUrl": "/blog/img/gambling-license-trust-score-ukgc-mga-pagcor.jpg"
-    },
-    {
-      "slug": "betting-platform-deposit-methods-comparison",
-      "title": "2026博彩平台存款方式大比拼：安全、速度、手續費全攻略",
-      "category": "存款方式",
-      "date": "2026-05-28",
-      "excerpt": "作為資深玩家，我深知揀啱博彩平台嘅存款方式有幾重要！唔止要快，更要安全穩陣，手續費仲要透明合理。",
-      "imageUrl": "/blog/img/betting-platform-deposit-methods-comparison.jpg"
     }
   ]
 }

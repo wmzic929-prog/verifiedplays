@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "online-gaming-platform-security-guide",
+      "title": "博彩平台安全評測完整指南：風險識別、監管審查與用戶保障機制研究",
+      "category": "undefined",
+      "date": "2026-06-01",
+      "excerpt": "講到網上博彩，我哋香港人最怕就係中伏！究竟點樣揀一個又好玩又安全嘅平台，真係考起唔少人。",
+      "imageUrl": "/blog/img/online-gaming-platform-security-guide.jpg"
+    },
+    {
       "slug": "online-gaming-ssl-certificate-ev-dv-comparison",
       "title": "博彩平台SSL憑證EV與DV等級安全機制比較研究",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-31",
       "excerpt": "講到網上博彩，最關心當然係贏咗錢點樣攞返！我哋就係想幫你搞清楚，邊間平台出款上限最高又最快，唔使再心大心細！",
       "imageUrl": ""
-    },
-    {
-      "slug": "hong-kong-gaming-platform-provider-diversity-analysis",
-      "title": "香港主要博彩平台遊戲供應商數量與多樣性之量化評估研究",
-      "category": "undefined",
-      "date": "2026-05-31",
-      "excerpt": "我哋成日都想知，玩開嘅博彩平台到底有幾多選擇？今次就同大家一齊深入研究！",
-      "imageUrl": "/blog/img/hong-kong-gaming-platform-provider-diversity-analysis.jpg"
     }
   ]
 }

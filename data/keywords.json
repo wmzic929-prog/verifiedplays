@@ -336,8 +336,10 @@
       "category": "安全架構",
       "angle": "教學攻略型",
       "image_theme": "gambling platform security evaluation complete guide",
-      "status": "available",
-      "writing_style": "評測框架教學，含10分制系統說明，1400字"
+      "status": "used",
+      "writing_style": "評測框架教學，含10分制系統說明，1400字",
+      "slug": "online-gaming-platform-security-guide",
+      "used_date": "2026-06-01"
     },
     {
       "id": 32,

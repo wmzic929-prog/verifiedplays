@@ -325,8 +325,10 @@
       "category": "安全架構",
       "angle": "數據比較型",
       "image_theme": "SSL certificate EV DV level comparison casino",
-      "status": "available",
-      "writing_style": "技術等級比較，1200字"
+      "status": "used",
+      "writing_style": "技術等級比較，1200字",
+      "slug": "online-gaming-ssl-certificate-ev-dv-comparison",
+      "used_date": "2026-06-01"
     },
     {
       "id": 31,

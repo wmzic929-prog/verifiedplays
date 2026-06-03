@@ -347,8 +347,10 @@
       "category": "合法牌照",
       "angle": "教學攻略型",
       "image_theme": "choose gambling platform hong kong players guide",
-      "status": "available",
-      "writing_style": "選擇框架，新手指南，1350字"
+      "status": "used",
+      "writing_style": "選擇框架，新手指南，1350字",
+      "slug": "hong-kong-licensed-gaming-platform-guide",
+      "used_date": "2026-06-03"
     },
     {
       "id": 33,
@@ -356,8 +358,10 @@
       "category": "存款方式",
       "angle": "教學攻略型",
       "image_theme": "casino account registration complete tutorial",
-      "status": "available",
-      "writing_style": "步驟式教學，1300字"
+      "status": "used",
+      "writing_style": "步驟式教學，1300字",
+      "slug": "hk-gaming-platform-account-setup-guide",
+      "used_date": "2026-06-03"
     },
     {
       "id": 34,

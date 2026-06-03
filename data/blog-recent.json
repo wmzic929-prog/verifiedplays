@@ -1,28 +1,28 @@
 {
   "articles": [
     {
+      "slug": "hk-gaming-platform-account-setup-guide",
+      "title": "香港博彩平台新手開戶流程全面解析：帳戶設置、驗證機制與注意事項研究",
+      "category": "存款方式",
+      "date": "2026-06-03",
+      "excerpt": "諗住喺香港玩網上博彩，但又怕開戶手續複雜，唔知點樣確保資金安全？我完全明白你嘅顧慮，等我哋一齊揭開佢嘅神秘面紗！",
+      "imageUrl": "https://pixabay.com/get/g63ff84ef87411807fd6e1096d6fce5c7de29530cb33f1ce947914b230518364a28d17f92debc943a88a937173bc6c119_640.jpg"
+    },
+    {
+      "slug": "hong-kong-licensed-gaming-platform-guide",
+      "title": "香港玩家選擇合規博彩平台的核心評估指標與實證研究分析",
+      "category": "合法牌照",
+      "date": "2026-06-03",
+      "excerpt": "我自己都係香港玩家，深明揀個安全又合規嘅網上平台有幾重要，唔想玩得唔安樂，錢又冇保障，所以研究咗好多！",
+      "imageUrl": "https://pixabay.com/get/g8ba2b3fc722f6b200b1b97de0e44aa0333c3aee1df628ace14caeb7dee7ed490a2bd81ce8477b690f4149de7135948497927ca35d0153a9ced0c3a96b0c8804f_640.jpg"
+    },
+    {
       "slug": "online-gaming-platform-security-guide",
       "title": "博彩平台安全評測完整指南：風險識別、監管審查與用戶保障機制研究",
-      "category": "undefined",
+      "category": "安全架構",
       "date": "2026-06-01",
       "excerpt": "講到網上博彩，我哋香港人最怕就係中伏！究竟點樣揀一個又好玩又安全嘅平台，真係考起唔少人。",
       "imageUrl": "/blog/img/online-gaming-platform-security-guide.jpg"
-    },
-    {
-      "slug": "online-gaming-ssl-certificate-ev-dv-comparison",
-      "title": "博彩平台SSL憑證EV與DV等級安全機制比較研究",
-      "category": "undefined",
-      "date": "2026-06-01",
-      "excerpt": "講到網上博彩，我最擔心就係個人資料同錢銀安唔安全。究竟點樣先知個平台係咪真係靠得住？",
-      "imageUrl": "/blog/img/online-gaming-ssl-certificate-ev-dv-comparison.jpg"
-    },
-    {
-      "slug": "hong-kong-betting-platform-withdrawal-limits-2025",
-      "title": "2025年香港博彩平台出款上限評測報告：各平台提款額度全面排名分析",
-      "category": "undefined",
-      "date": "2026-05-31",
-      "excerpt": "講到網上博彩，最關心當然係贏咗錢點樣攞返！我哋就係想幫你搞清楚，邊間平台出款上限最高又最快，唔使再心大心細！",
-      "imageUrl": ""
     }
   ]
 }

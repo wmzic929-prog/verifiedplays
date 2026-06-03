@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+﻿﻿<!DOCTYPE html>
 <html lang="zh-Hant-HK">
 <head>
 <!-- Google Tag Manager -->
@@ -133,23 +133,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
     <div class="editorial-grid" id="articles-grid">
 <!-- BLOG_INJECT_START -->
+    <a href="blog/hk-gaming-platform-account-setup-guide.html" class="bp-card">
+      <span class="bp-cat">存款方式</span>
+      <h3>香港博彩平台新手開戶流程全面解析：帳戶設置、驗證機制與注意事項研究</h3>
+      <p class="bp-desc">諗住喺香港玩網上博彩，但又怕開戶手續複雜，唔知點樣確保資金安全？我完全明白你嘅顧慮，等我哋一齊揭開佢嘅神秘面紗！</p>
+      <div class="bp-footer"><span>2026-06-03</span><span class="bp-read-more">閱讀全文 →</span></div>
+    </a>
+    <a href="blog/hong-kong-licensed-gaming-platform-guide.html" class="bp-card">
+      <span class="bp-cat">合法牌照</span>
+      <h3>香港玩家選擇合規博彩平台的核心評估指標與實證研究分析</h3>
+      <p class="bp-desc">我自己都係香港玩家，深明揀個安全又合規嘅網上平台有幾重要，唔想玩得唔安樂，錢又冇保障，所以研究咗好多！</p>
+      <div class="bp-footer"><span>2026-06-03</span><span class="bp-read-more">閱讀全文 →</span></div>
+    </a>
     <a href="blog/online-gaming-platform-security-guide.html" class="bp-card">
-      <span class="bp-cat">undefined</span>
+      <span class="bp-cat">安全架構</span>
       <h3>博彩平台安全評測完整指南：風險識別、監管審查與用戶保障機制研究</h3>
       <p class="bp-desc">講到網上博彩，我哋香港人最怕就係中伏！究竟點樣揀一個又好玩又安全嘅平台，真係考起唔少人。</p>
       <div class="bp-footer"><span>2026-06-01</span><span class="bp-read-more">閱讀全文 →</span></div>
-    </a>
-    <a href="blog/online-gaming-ssl-certificate-ev-dv-comparison.html" class="bp-card">
-      <span class="bp-cat">undefined</span>
-      <h3>博彩平台SSL憑證EV與DV等級安全機制比較研究</h3>
-      <p class="bp-desc">講到網上博彩，我最擔心就係個人資料同錢銀安唔安全。究竟點樣先知個平台係咪真係靠得住？</p>
-      <div class="bp-footer"><span>2026-06-01</span><span class="bp-read-more">閱讀全文 →</span></div>
-    </a>
-    <a href="blog/hong-kong-betting-platform-withdrawal-limits-2025.html" class="bp-card">
-      <span class="bp-cat">undefined</span>
-      <h3>2025年香港博彩平台出款上限評測報告：各平台提款額度全面排名分析</h3>
-      <p class="bp-desc">講到網上博彩，最關心當然係贏咗錢點樣攞返！我哋就係想幫你搞清楚，邊間平台出款上限最高又最快，唔使再心大心細！</p>
-      <div class="bp-footer"><span>2026-05-31</span><span class="bp-read-more">閱讀全文 →</span></div>
     </a>
     <!-- BLOG_INJECT_END -->
 </div>
@@ -259,8 +259,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       if (arts.length >= 2) {
         document.getElementById('hero-stack').innerHTML = arts.slice(1,4).map((a,i) => `
           <div class="hero-b-stack-item">
-            <img class="hero-b-stack-img" src="${a.imageUrl||''}" alt="${a.title}" loading="lazy"
-              onerror="this.style.background='var(--clr-bg-alt)';this.src=''">
+            <img class="hero-b-stack-img" src="${a.imageUrl||'data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='}" alt="${a.title}" loading="lazy"
+              onerror="this.style.background='var(--clr-bg-alt)';this.removeAttribute('src')">
             <div>
               <div class="hero-b-label" style="font-size:10px;">${a.category||'分析'}</div>
               <a href="/blog/${a.slug}" class="hero-b-stack-title">${a.title}</a>
@@ -271,13 +271,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       if (arts.length >= 3) {
         document.getElementById('articles-grid').innerHTML = arts.slice(0,3).map((a,i) => `
           <div class="card-editorial">
-            <img class="card-img card-img-wide" src="${a.imageUrl||''}" alt="${a.title}" loading="lazy"
-              onerror="this.style.background='var(--clr-bg-alt)';this.src=''"
+            <img class="card-img card-img-wide" src="${a.imageUrl||'data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='}" alt="${a.title}" loading="lazy"
+              onerror="this.style.background='var(--clr-bg-alt)';this.removeAttribute('src')"
               style="border-radius:var(--radius-sm);margin-bottom:var(--space-3);">
             <div class="card-label">${a.category||'分析'}</div>
             <a href="/blog/${a.slug}" class="card-title">${a.title}</a>
             <p style="font-size:13px;color:var(--clr-text-muted);margin-top:var(--space-2);">${a.date||''}</p>
           </div>`).join('');
+      }
+      if (arts.length >= 2) {
+        const start = arts.length >= 5 ? 3 : Math.max(1, arts.length - 2);
+        const moreArts = arts.slice(start, start + 2);
+        const tagCls = ['tag-2', 'tag-3'];
+        document.getElementById('more-articles').innerHTML = moreArts.map((a, i) => {
+          const cat = (!a.category || a.category === 'undefined') ? '評測' : a.category;
+          const imgStyle = a.imageUrl ? `background:url(${a.imageUrl}) center/cover no-repeat;` : `background:var(--clr-bg-alt);`;
+          return `<div class="card">
+            <div class="card-img" style="${imgStyle}"></div>
+            <div class="card-body">
+              <div class="card-meta"><span class="tag ${tagCls[i] || 'tag-2'}">${cat}</span></div>
+              <a href="/blog/${a.slug}" class="card-title">${a.title}</a>
+              <div class="card-footer"><span>${a.date || '最新更新'}</span></div>
+            </div>
+          </div>`;
+        }).join('');
       }
     }).catch(() => {});
 </script>

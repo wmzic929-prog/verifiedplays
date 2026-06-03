@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+﻿﻿<!DOCTYPE html>
 <html lang="zh-Hant-HK">
 <head>
 <!-- Google Tag Manager -->
@@ -278,6 +278,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <a href="/blog/${a.slug}" class="card-title">${a.title}</a>
             <p style="font-size:13px;color:var(--clr-text-muted);margin-top:var(--space-2);">${a.date||''}</p>
           </div>`).join('');
+      }
+      if (arts.length >= 2) {
+        const start = arts.length >= 5 ? 3 : Math.max(1, arts.length - 2);
+        const moreArts = arts.slice(start, start + 2);
+        const tagCls = ['tag-2', 'tag-3'];
+        document.getElementById('more-articles').innerHTML = moreArts.map((a, i) => {
+          const cat = (!a.category || a.category === 'undefined') ? '評測' : a.category;
+          const imgStyle = a.imageUrl ? `background:url(${a.imageUrl}) center/cover no-repeat;` : `background:var(--clr-bg-alt);`;
+          return `<div class="card">
+            <div class="card-img" style="${imgStyle}"></div>
+            <div class="card-body">
+              <div class="card-meta"><span class="tag ${tagCls[i] || 'tag-2'}">${cat}</span></div>
+              <a href="/blog/${a.slug}" class="card-title">${a.title}</a>
+              <div class="card-footer"><span>${a.date || '最新更新'}</span></div>
+            </div>
+          </div>`;
+        }).join('');
       }
     }).catch(() => {});
 </script>

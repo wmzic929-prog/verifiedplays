@@ -259,8 +259,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       if (arts.length >= 2) {
         document.getElementById('hero-stack').innerHTML = arts.slice(1,4).map((a,i) => `
           <div class="hero-b-stack-item">
-            <img class="hero-b-stack-img" src="${a.imageUrl||''}" alt="${a.title}" loading="lazy"
-              onerror="this.style.background='var(--clr-bg-alt)';this.src=''">
+            <img class="hero-b-stack-img" src="${a.imageUrl||'data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='}" alt="${a.title}" loading="lazy"
+              onerror="this.style.background='var(--clr-bg-alt)';this.removeAttribute('src')">
             <div>
               <div class="hero-b-label" style="font-size:10px;">${a.category||'分析'}</div>
               <a href="/blog/${a.slug}" class="hero-b-stack-title">${a.title}</a>
@@ -271,8 +271,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       if (arts.length >= 3) {
         document.getElementById('articles-grid').innerHTML = arts.slice(0,3).map((a,i) => `
           <div class="card-editorial">
-            <img class="card-img card-img-wide" src="${a.imageUrl||''}" alt="${a.title}" loading="lazy"
-              onerror="this.style.background='var(--clr-bg-alt)';this.src=''"
+            <img class="card-img card-img-wide" src="${a.imageUrl||'data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='}" alt="${a.title}" loading="lazy"
+              onerror="this.style.background='var(--clr-bg-alt)';this.removeAttribute('src')"
               style="border-radius:var(--radius-sm);margin-bottom:var(--space-3);">
             <div class="card-label">${a.category||'分析'}</div>
             <a href="/blog/${a.slug}" class="card-title">${a.title}</a>
